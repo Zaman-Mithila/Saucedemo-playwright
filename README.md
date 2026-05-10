@@ -3,11 +3,7 @@
 Overview
 This project is an automation testing suite for https://www.saucedemo.com/ using Playwright.
 
-All test cases were executed manually and automated using Playwright framework.
-
-Tech Stack
-- Playwright
-- JavaScript 
+All test cases were executed manually and automated using Playwright framework
 
 
 Test Scenarios
